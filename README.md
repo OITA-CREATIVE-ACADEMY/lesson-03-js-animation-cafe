@@ -26,3 +26,10 @@ animate.css、waypoints jsを使用しアニメーションを実装する(サ�
 ## その他のポイント
 
 - ページ読み込み時にjQueryを実行する https://qiita.com/8845musign/items/88a8c693c84ba63cea1d
+- animate.cssの使い方の理解
+
+```js
+$('#yourElement').addClass('animated bounceOutLeft');
+```
+
+JSからクラス名を付与する
